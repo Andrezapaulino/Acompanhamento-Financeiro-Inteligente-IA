@@ -3,7 +3,7 @@
 Planilha Inteligente de Acompanhamento Financeiro
 
 ## 💻 Ferramentas Utilizadas
--[ChatGPT](https://chat.openai.com/) 
+- Chat GPT
 - Excel
   
 ## ✨ Como foi feito ?
