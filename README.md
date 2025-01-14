@@ -10,7 +10,7 @@ Planilha Inteligente de Acompanhamento Financeiro
 
 - [Excel] PLanilha Crianda em Excel
 - [Chat GPT] Roteiro gerado via chatgpt
-- 
+  
 ## 👨‍💻 Expert
 
 <p>
